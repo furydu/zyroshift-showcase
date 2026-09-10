@@ -19,6 +19,10 @@ ZyroShift can be discussed as a project acquisition, a source license or a start
 
 The earlier source revision and the newer local affiliate extension have different scopes. A delivery should identify its exact source revision and explicitly list any additional modules.
 
+## Product walkthrough
+
+The hosted demo is temporarily unavailable. To see the interface and user flows, email **[support@zyroshift.com](mailto:support@zyroshift.com?subject=ZyroShift%20product%20walkthrough)** to request a recorded video walkthrough or arrange a live walkthrough via UltraViewer using the local demo.
+
 ## Enquiries
 
 Email **[support@zyroshift.com](mailto:support@zyroshift.com?subject=ZyroShift%20commercial%20enquiry)** with:
