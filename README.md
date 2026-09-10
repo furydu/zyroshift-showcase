@@ -10,6 +10,24 @@ ZyroShift brings asset selection, network selection, swap quotes and order track
 
 This public showcase presents the product, its architecture and ways to work together. Implementation source is maintained separately, with access and delivery scope agreed for each engagement.
 
+## Interface preview
+
+Real screenshots of the local application, captured in September 2026. Rates and route data shown in the swap interface use demo mode; these images do not represent live quotes or completed transactions.
+
+**Homepage**
+
+![ZyroShift homepage with branded navigation and swap introduction](assets/zyroshift-homepage.jpg)
+
+**Swap builder — token/network selection and destination address entry**
+
+![ZyroShift swap builder showing USDT on Tron to BTC on Bitcoin in local demo mode](assets/zyroshift-swap-builder.jpg)
+
+| Token selection | Dedicated swap-pair page |
+| --- | --- |
+| [![Token picker with searchable assets and network information](assets/zyroshift-token-picker.jpg)](assets/zyroshift-token-picker.jpg) | [![USDT TRC20 to BTC route page with network context](assets/zyroshift-pair-page.jpg)](assets/zyroshift-pair-page.jpg) |
+
+Click any image to view it at full size. To see the interface in action, [request a product walkthrough](mailto:support@zyroshift.com?subject=ZyroShift%20product%20walkthrough).
+
 ## Product capabilities
 
 | Area | Implementation |
@@ -35,7 +53,7 @@ Swap execution uses an external exchange provider. See the [architecture notes](
 
 ## Availability
 
-The hosted demo is temporarily unavailable. Contact me to arrange a product walkthrough.
+The hosted demo is temporarily unavailable. Email **[support@zyroshift.com](mailto:support@zyroshift.com?subject=ZyroShift%20product%20walkthrough)** to request a recorded video walkthrough or arrange a live walkthrough via UltraViewer using the local demo.
 
 ## Work with me
 
