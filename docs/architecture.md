@@ -24,6 +24,14 @@ flowchart TD
 
 Exchange execution, supported routes and settlement behavior depend on SideShift. The application contains a development mock mode for supported flows; that mode is not proof of a successful live trade.
 
+## Exchange integration
+
+ZyroShift integrates the SideShift.ai API for quotes, shift creation and order status. ZyroShift provides the application interface, server-side integration and product experience; SideShift supplies exchange execution.
+
+The integration supports provider affiliate attribution. Commission eligibility and payment depend on provider terms and actual completed activity; this showcase includes no verified revenue figures. A buyer needs valid provider credentials and must meet the provider's operating requirements. API secrets are configured on the server and are excluded from the public showcase.
+
+See the provider's [integration documentation](https://docs.sideshift.ai/) and [monetization documentation](https://docs.sideshift.ai/api-intro/monetization/). Deployment setup, provider access and any account transfer are agreed separately during handover.
+
 ## Content architecture
 
 The project includes a token catalog, network taxonomy, pair definitions, guide templates and publishing/indexability rules. These connect product navigation with dedicated discovery pages. The existence of these pages does not establish traffic, search rankings or indexed-page counts.
